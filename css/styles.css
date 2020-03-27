@@ -1,0 +1,15 @@
+
+
+/** Header  **/
+
+.encabezado{
+    background-image: url(../Imagenes/CosmeticosMenu.jpg);
+    width: 100%;
+    height: 250px;
+}
+
+.encabezado a h1 {
+    
+}
+
+
